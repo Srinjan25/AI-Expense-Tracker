@@ -135,7 +135,6 @@ The application uses a simple yet effective database schema:
 - **User**: Stores user information from Clerk
 - **Record**: Stores expense transactions with categories and amounts
 
-View the complete database diagram: [Eraser Diagram](https://app.eraser.io/workspace/XhlJP6Rdmx6nrGR0SpKz?origin=share)
 
 ## 🎯 Key Features Walkthrough
 
@@ -174,17 +173,8 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 2. **Add environment variables in Vercel dashboard**
 3. **Deploy automatically on every push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sahandghavidel/next-expense-tracker-ai)
 
-## 📎 Useful Links
 
-- **[Neon Database](https://get.neon.com/0pFcBSF)** - Serverless PostgreSQL
-- **[Clerk Authentication](https://go.clerk.com/WSe7K8F)** - User management
-- **[GitHub Repository](https://github.com/sahandghavidel/next-expense-tracker-ai)** - Source code
-- **[Database Diagram](https://app.eraser.io/workspace/XhlJP6Rdmx6nrGR0SpKz?origin=share)** - Visual schema
-- **[Next.js Documentation](https://nextjs.org)** - Framework docs
-- **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
-- **[Vercel Platform](https://vercel.com)** - Deployment platform
 
 ## 🤝 Contributing
 
@@ -200,12 +190,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 💖 Support
-
-If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
-
-_Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
